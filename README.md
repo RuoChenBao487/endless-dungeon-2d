@@ -5,6 +5,11 @@
 > 15.5 在 15.0 的基础上新增：亡灵合体敌人、结算战斗数据与高光、图鉴形象与记录、
 > 暂停存档与「继续上一局」、移速/跳跃强化封顶、松键削顶、成就系统。
 > 详见「16.0 新增内容」与文末「15.5 新增内容」。
+<img width="800" height="600" alt="ancient_great_tomb" src="https://github.com/user-attachments/assets/bb955077-0c11-4b9d-b794-c1c26f49a3f4" />
+<img width="800" height="600" alt="desecrated_church" src="https://github.com/user-attachments/assets/b3a7eeac-4474-4b6d-af71-19cdd74d823f" />
+<img width="800" height="600" alt="storm_temple" src="https://github.com/user-attachments/assets/4d476618-94ac-4a45-84b3-26037cb37174" />
+
+
 
 从单文件（14.7.3.py，9789 行）拆成了按职责分层的包结构，同时统一了计时方式、
 重做了各生物群系的背景，并加上了跨局保存的冒险记录。
